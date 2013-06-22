@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<playlist>
+	<chapter>
+		<title>Using Sorted's Budget Calculator</title>
+		<description>Introduction to the budget calculator.</description>
+		<length>
+			<seconds>45</seconds>
+			<frames>1080</frames>
+		</length>
+		<width>872</width>
+		<height>480</height>
+		<file type="swf">http://s4demo.sparksinteractive.co.nz/ad-landing/mediaplayer/budget_part1.swf</file>
+	</chapter>
+	<chapter>
+		<title>What info goes in your budget?</title>
+		<description>What information should you put in your budget and where.</description>
+		<length>
+			<seconds>45</seconds>
+			<frames>1080</frames>
+		</length>
+		<width>872</width>
+		<height>480</height>
+		<file type="swf">http://s4demo.sparksinteractive.co.nz/ad-landing/mediaplayer/budget_part2.swf</file>
+	</chapter>
+	<chapter>
+		<title>Summary Panel</title>
+		<description>How to effectively use the summary panel to understand and navigate your budget.</description>
+		<length>
+			<seconds>45</seconds>
+			<frames>1080</frames>
+		</length>
+		<width>872</width>
+		<height>480</height>
+		<file type="swf">http://s4demo.sparksinteractive.co.nz/ad-landing/mediaplayer/budget_part3.swf</file>
+	</chapter>
+	<chapter>
+		<title>Getting the results</title>
+		<description>This part shows you where to find, and how to interpret your results.</description>
+		<length>
+			<seconds>45</seconds>
+			<frames>1080</frames>
+		</length>
+		<width>872</width>
+		<height>480</height>
+		<file type="swf">http://s4demo.sparksinteractive.co.nz/ad-landing/mediaplayer/budget_part4.swf</file>
+	</chapter>
+</playlist>

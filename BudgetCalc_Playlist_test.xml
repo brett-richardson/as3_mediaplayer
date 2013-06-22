@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<playlist>
+	
+	<chapter>
+		<title>Using Sorted's Budget Calculator</title>
+		<description>Introduction to the budget calculator.</description>
+		<length>
+			<seconds>45</seconds>
+			<frames>1080</frames>
+		</length>
+		<width>872</width>
+		<height>480</height>
+		<file type="swf">http://localhost/budgetmovies/budget_part1.swf</file>
+	</chapter>
+	
+	<chapter>
+		<title>Using Sorted's Budget Calculator</title>
+		<description>Introduction to the budget calculator.</description>
+		<length>
+			<seconds>45</seconds>
+			<frames>1080</frames>
+		</length>
+		<width>872</width>
+		<height>480</height>
+		<file type="swf">http://localhost/budgetmovies/budget_part2.swf</file>
+	</chapter>
+	
+	<chapter>
+		<title>Using Sorted's Budget Calculator</title>
+		<description>Introduction to the budget calculator.</description>
+		<length>
+			<seconds>45</seconds>
+			<frames>1080</frames>
+		</length>
+		<width>872</width>
+		<height>480</height>
+		<file type="swf">http://localhost/budgetmovies/budget_part3.swf</file>
+	</chapter>
+	
+	<chapter>
+		<title>Using Sorted's Budget Calculator</title>
+		<description>Introduction to the budget calculator.</description>
+		<length>
+			<seconds>45</seconds>
+			<frames>1080</frames>
+		</length>
+		<width>872</width>
+		<height>480</height>
+		<file type="swf">http://localhost/budgetmovies/budget_part4.swf</file>
+	</chapter>
+	
+	<chapter>
+		<title>Using Sorted's Budget Calculator</title>
+		<description>Introduction to the budget calculator.</description>
+		<length>
+			<seconds>45</seconds>
+			<frames>1080</frames>
+		</length>
+		<width>872</width>
+		<height>480</height>
+		<file type="swf">http://localhost/budgetmovies/budget_part5.swf</file>
+	</chapter>
+
+</playlist>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<playlist>
+	<chapter>
+		<title>Using Sorted's Budget Calculator</title>
+		<description>Introduction to the budget calculator.</description>
+		<length>
+			<seconds>45</seconds>
+			<frames>1080</frames>
+		</length>
+		<width>872</width>
+		<height>480</height>
+		<file type="swf">http://dev.sparksinteractive.co.nz/clients/sorted/sortedin60/budget_part1.swf</file>
+	</chapter>
+</playlist>
